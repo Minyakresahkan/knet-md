@@ -29,11 +29,11 @@
 1. ***Get [SESSION-ID](https://secktoruserbot.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 2.  ***Get a Mongodb uri from [Mongodb](https://github.com/SamPandey001/Secktor-Md/wiki/Mongodb-URI).***
 3.  ***Click [FORK](https://github.com/SamPandey001/Secktor-MD/fork)***
-4.  ***Deploy on [Heroku](https://secktorbot.tech/heroku)***
+4.  ***Deploy on [Heroku unknown server]()***
 
 5. ***[Deploy on Koyeb](https://secktorbot.me/koyeb)***
 
-6.  ***[Deploy on Railway unknown]()***
+6.  ***[Deploy on Railway unknown server]()***
   
 7. ***Deploy in [Linux](https://github.com/SamPandey001/Secktor-Deploy#deploy-in-any-shell-including-termux)***
 
