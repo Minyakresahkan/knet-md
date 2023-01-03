@@ -1,13 +1,13 @@
   <p align="center">  
   <a href="https://citel.vercel.app/">
-    <img alt="secktor docs" height="300" src="https://secktorbot.tech/main.jpg">
-    <h1 align="center">Secktor MD Whatsapp bot</h1>
+    <img alt="secktor docs" height="300" src="https://blogger.googleusercontent.com/img/a/AVvXsEgQ95LSlIZs7-9H9e2KNcTmEkU13fGO1V5CQe__QEfeHZ6CuRWtaPXrdDpBBXY7X2tqOU3Y3O3mGLyHCx0tP_HhHESaKpYw6N8CiEQHrqnEXtcSnbo3Z5KSGoWgOQuUm6lEC0ocgqZt035Zfktk-M1urIJ_ZcO1jHPinn0HGO6YrfMcgXpWarFZ32XcJw=s1600">
+    <h1 align="center">Knet MD WHATSAPP BOT</h1>
   </a>
 </p>
    
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/Bl2F9UTVU4CBfZU6eVnrbCl" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/HFzZYxB9TyoLHolxHHlpj8" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
  
@@ -52,3 +52,5 @@
 ## License
 
 The Secktor is made available under the [GPL-3 license](https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE). 
+
+support sampandey001 - thanks for you bot
