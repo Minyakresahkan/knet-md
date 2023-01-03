@@ -26,14 +26,14 @@
 - Install [External Plugins](https://github.com/SamPandey001/Secktor-Plugins)
 ## Deployment Methods
 ---
-1. ***Get [SESSION-ID](https://secktorbot.tech) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [SESSION-ID](https://secktoruserbot.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 2.  ***Get a Mongodb uri from [Mongodb](https://github.com/SamPandey001/Secktor-Md/wiki/Mongodb-URI).***
 3.  ***Click [FORK](https://github.com/SamPandey001/Secktor-MD/fork)***
 4.  ***Deploy on [Heroku](https://secktorbot.tech/heroku)***
 
 5. ***[Deploy on Koyeb](https://secktorbot.me/koyeb)***
 
-6.  ***[Deploy on Railway](https://secktorbot.tech/railway)***
+6.  ***[Deploy on Railway unknown]()***
   
 7. ***Deploy in [Linux](https://github.com/SamPandey001/Secktor-Deploy#deploy-in-any-shell-including-termux)***
 
@@ -52,5 +52,7 @@
 ## License
 
 The Secktor is made available under the [GPL-3 license](https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE). 
+
+## support by KNET-TEAM
 
 support sampandey001 - thanks for you bot
